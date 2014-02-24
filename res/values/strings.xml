@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Retrofit mock</string>
+    <string name="invoke_mock_service">Mocked service</string>
+    <string name="invoke_real_service">Real service</string>
+</resources>
