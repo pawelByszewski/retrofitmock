@@ -11,7 +11,7 @@ import javax.inject.Singleton;
 import static org.mockito.Mockito.mock;
 
 @Module(
-    injects = OfferDetailAdapterTest.class,
+    injects = EchoServiceTest.class,
     overrides = true,
     library = true,
     complete = false
